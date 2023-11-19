@@ -1,0 +1,29 @@
+.place-item{
+    list-style-type: none;
+    margin-left: 0;
+    text-align: center;
+    box-shadow: 2px 2px 4px black;
+}
+.place-item-img{
+    margin: auto;
+    padding-bottom: 1rem;
+}
+.place-item-img img{
+    width: 100%;
+}
+li{
+    padding: 3rem 0rem 3rem 0rem;
+}
+.place-div{
+    width: max(20em,60%);
+    margin: auto;
+    word-wrap: break-word
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.place-div div{
+    padding: 1rem;
+    box-shadow: 0px -1px 10px grey;
+}
